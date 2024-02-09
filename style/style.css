@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+    background-image: linear-gradient(rgb(165, 165, 255), rgb(253, 253, 139));
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
